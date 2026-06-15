@@ -3,7 +3,7 @@
 Este repositorio contiene el desarrollo de una actividad práctica diseñada para contrastar la **Programación Tradicional (Estructurada)** con la **Programación Orientada a Objetos (POO)** utilizando Python.
 
 ## Información del Estudiante
-* **Nombre Completo:** Damian Ortega
+* **Nombre Completo:** Manuel Damian Ortega Japon
 * **Carrera:** Ingeniería en Tecnología de la Información
 
 ## Descripción de los Programas
