@@ -1,4 +1,5 @@
-﻿def registrar_mascota():
+﻿# Damian Ortega tradicional.py
+def registrar_mascota():
     print("--- Registro de Mascota (Programación Tradicional) ---")
     nombre = input("Ingrese el nombre de la mascota: ")
     especie = input("Ingrese la especie (ej. Perro, Gato): ")

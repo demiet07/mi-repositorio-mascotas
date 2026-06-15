@@ -1,4 +1,5 @@
-﻿from mascota import Mascota
+﻿#Damian Ortega datos de mascotas 
+from mascota import Mascota
 
 if __name__ == "__main__":
     print("--- Gestión de Mascotas (POO) ---\n")
